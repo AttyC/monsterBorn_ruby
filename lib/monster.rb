@@ -27,5 +27,4 @@ class Monster
       return "That's that!"
     end
   end
-
 end
